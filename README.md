@@ -25,6 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - FIGMA
 - Git e Github
 
+Paa visualizar a versão atual do projeto clique aqui https://carolsilva-dev.github.io/AluraBook/
 
 ## 💻 Projeto
 
